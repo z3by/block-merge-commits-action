@@ -1,8 +1,5 @@
 # Block Merge Commits Action
 
-[![CI](https://github.com/z3by/block-merge-commits-action/workflows/CI/badge.svg)](https://github.com/z3by/block-merge-commits-action/actions?query=workflow%3ACI)
-[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=z3by/block-merge-commits-action)](https://dependabot.com)
-
 A Github Action to prevent merging pull requests containing **merge** commit messages.
 
 ## How it works
