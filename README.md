@@ -4,7 +4,7 @@ A Github Action to prevent merging pull requests containing **merge** commit mes
 
 ## How it works
 
-If any commit message in the pull request starts with `Merge branch!` the check status will be set to `error`.
+If any commit message in the pull request starts with `Merge branch` the check status will be set to `error`.
 
 ## Usage
 
